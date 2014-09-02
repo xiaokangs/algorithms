@@ -1,3 +1,3 @@
 algorithms
 ==========
-This repository has my solutions to some common algorithm interview questions. 
+This repository includes my solutions to some  algorithm interview questions from cracking the coding interview and leetcode. 
